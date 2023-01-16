@@ -5,4 +5,4 @@ Tidal-Media-Downloader on google colab
 
 ## **Notes:**
 - To use this u need to have hifi subscription on tidal.
-- To download master quality u need to have hifi plus subscribtion and use the api for Master only
+- To download master quality u need to have hifi plus subscription and use the api for Master only
